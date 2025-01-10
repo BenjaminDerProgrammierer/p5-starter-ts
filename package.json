@@ -1,0 +1,23 @@
+{
+  "name": "p5-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run build && npm run serve",
+    "build": "vite build",
+    "lint": "echo 'No linting configured'",
+    "serve": "vite preview",
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "vite": "^6.0.7"
+  },
+  "dependencies": {
+    "@types/p5": "^1.7.6",
+    "p5": "^1.11.2"
+  }
+}

@@ -4,8 +4,10 @@ Fork me!
 
 ## Usage
 
-1. (Fork your copy)
-2. Clone this repository & run `npm install`
+1. Fork your copy
+2. Activate GitHub Pages in the settings
+3. Clone your repository
+4. Run `npm install` to install the dependencies
 
 ### Scripts
 

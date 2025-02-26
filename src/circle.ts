@@ -1,7 +1,7 @@
 import { p } from './index';
 
 // Example helper function
-export function drawCircle(x, y) {
+export function drawCircle(x: number, y: number) {
     if (!p) {
         throw new Error('p5 instance not found');
     }

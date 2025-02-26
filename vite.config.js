@@ -1,3 +1,3 @@
 export default {
-    base: '/p5-starter'
+    base: '/p5-starter-ts'
 }

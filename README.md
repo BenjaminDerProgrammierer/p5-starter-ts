@@ -1,4 +1,4 @@
-# p5js starter template
+# p5js starter template (TypeScript)
 
 Fork me!
 
